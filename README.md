@@ -1,2 +1,4 @@
-# cyber-data-analysis-and-prediction-using-decision-tree
-**Crime Data Analysis and Prediction using Decision Tree** is a machine learning project that analyzes historical crime data to identify patterns and predict potential crime-prone areas. The system helps law enforcement agencies make proactive decisions, improve resource allocation, and enhance public safety. 🚔📊
+# Crime classification, analysis & prediction in Indore city
+# All the modules must be installed to run it.
+# Just run App.py
+# Everything you need to know is on Final_report.pdf
